@@ -9,3 +9,5 @@ Collection of my AWS projects
 [Repository](https://github.com/mohd-ahsan-mirza/aws-email-daily-cost)
 ## AWS Playground Docker
 [Repository](https://github.com/mohd-ahsan-mirza/playground-aws)
+## AWS Send Email API
+[Repository](https://github.com/mohd-ahsan-mirza/send_email)
