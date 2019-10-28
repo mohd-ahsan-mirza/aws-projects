@@ -1,6 +1,8 @@
 # Description
 Collection of my AWS projects
 # Projects
+## SNS SMS Test
+[Repository](https://github.com/mohd-ahsan-mirza/sns-messages-text)
 ## AWS Send Email API
 [Repository](https://github.com/mohd-ahsan-mirza/send_email)
 ## AWS Playground Docker
