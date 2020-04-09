@@ -1,6 +1,8 @@
 # Description
 Collection of my AWS projects
 # Projects
+## AWS S3 SNS Lambda event based architecture
+[Repository](https://github.com/mohd-ahsan-mirza/s3-events-sns-lambda)
 ## SNS SMS Test
 [Repository](https://github.com/mohd-ahsan-mirza/sns-messages-text)
 ## AWS Send Email API
